@@ -1,4 +1,4 @@
-# ITRoadmap
+# <p align="center">ITRoadmap</p>
 <p align="center"><img width="300" src="https://user-images.githubusercontent.com/44803650/171960120-38c9227e-bcab-4961-b05c-7a2213921152.png"></p>
 
 **Прототип** приложения для начинающих ИТ-специалистов. Является переписанным вариантом [MyRoadmapApp](https://github.com/R1k0523/MyRoadmapApp).
